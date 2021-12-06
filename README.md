@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dev-pankaj290h
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Devops 
+- 👋 Hi, I’m Pankaj Kumar
+- 👀 I’m interested in ...Web Developmen
 - 📫 How to reach me ...pankaj290h@gmail.com
 
 <!---
